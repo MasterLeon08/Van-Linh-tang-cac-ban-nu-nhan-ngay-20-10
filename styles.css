@@ -6,16 +6,13 @@ body {
     padding: 0;
     overflow: hidden; /* Ngăn cuộn trang khi có mưa trái tim */
 }
-
 .container {
     padding: 20px;
     margin-top: 50px;
 }
-
 h1 {
     color: #ff1493;
 }
-
 button {
     padding: 15px 30px;
     font-size: 18px;
@@ -26,15 +23,12 @@ button {
     cursor: pointer;
     margin-top: 20px;
 }
-
 button:hover {
     background-color: #ff1493;
 }
-
 .hidden {
     display: none;
 }
-
 #greeting {
     margin-top: 20px;
     color: #32cd32;
