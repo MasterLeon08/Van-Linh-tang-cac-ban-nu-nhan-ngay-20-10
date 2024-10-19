@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Ngăn cuộn trang khi có mưa trái tim */
+}
+
+.container {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ff1493;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #ff1493;
+}
+
+.hidden {
+    display: none;
+}
+
+#greeting {
+    margin-top: 20px;
+    color: #32cd32;
+    font-size: 24px;
+}
